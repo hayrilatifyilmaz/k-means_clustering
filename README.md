@@ -8,4 +8,4 @@ In this project, K-Means Clustering algorithm has been applied to the images. Th
 
 Coded by **[hayrilatifyilmaz](https://github.com/hayrilatifyilmaz)**
 
-[**Website**](https://cesiumstudios.com/)
+[**My Website**](https://cesiumstudios.com/)
