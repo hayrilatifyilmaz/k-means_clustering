@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Coded by hayrilatifyilmaz
+//https://github.com/hayrilatifyilmaz
+
+
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
